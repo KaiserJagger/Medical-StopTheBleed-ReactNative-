@@ -1,0 +1,63 @@
+[
+  {
+    "startTime": "00:00:00,0",
+    "endTime": "00:00:06,0",
+    "text":
+      "Please listen carefully for instructions for safely using this product."
+  },
+  {
+    "startTime": "00:00:06,000",
+    "endTime": "00:00:10,00",
+    "text": "Determine that you are safe where you are."
+  },
+  {
+    "startTime": "00:00:10,000",
+    "endTime": "00:00:16,000",
+    "text":
+      "Place the tourniquet 2-3 inches above the wound between the torso and the wound."
+  },
+  {
+    "startTime": "00:00:18,00",
+    "endTime": "00:00:25,000",
+    "text":
+      "Next, pull the free end of the velcro strap and thread it through the buckle."
+  },
+  {
+    "startTime": "00:00:25,000",
+    "endTime": "00:00:27,618",
+    "text": "Securely fasten it back onto itself."
+  },
+  {
+    "startTime": "00:00:29,000",
+    "endTime": "00:00:35,000",
+    "text": "Next, twist the rod. Keep twisting until bleeding stops."
+  },
+  {
+    "startTime": "00:00:35,00",
+    "endTime": "00:00:37,618",
+    "text": "It is normal for this to cause some pain."
+  },
+  {
+    "startTime": "00:00:39,000",
+    "endTime": "00:00:47,000",
+    "text":
+      "Finally clip and secure the rod with the small velcro strap so that it does not untwist."
+  },
+  {
+    "startTime": "00:00:47,500",
+    "endTime": "00:00:55,000",
+    "text":
+      "If bleeding hasn't stopped, apply a second tourniquet above the previous one closer to the torso."
+  },
+  {
+    "startTime": "00:00:56,000",
+    "endTime": "00:01:02,618",
+    "text":
+      "Stay with the injured person and offer them comfort and support until further help arrives."
+  },
+  {
+    "startTime": "00:01:02,000",
+    "endTime": "00:01:06,618",
+    "text": "Do not loosen or remove the tourniquet"
+  }
+]

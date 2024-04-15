@@ -1,0 +1,50 @@
+edu.usuhs.stb.app-lifecycle-viewmodel-2.5.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\0116fc15a4fd4811e9bd201c93530874\transformed\lifecycle-viewmodel-2.5.0\res
+edu.usuhs.stb.app-transition-1.2.0-1 C:\Users\Administrator\.gradle\caches\transforms-3\04e54ab2101536ef35a36f5e93e40aa0\transformed\transition-1.2.0\res
+edu.usuhs.stb.app-jetified-emoji2-1.2.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\165493409934ac901a5860a49b5fc00b\transformed\jetified-emoji2-1.2.0\res
+edu.usuhs.stb.app-jetified-tracing-1.1.0-3 C:\Users\Administrator\.gradle\caches\transforms-3\1892e59324881ea983a4dd313f69ea28\transformed\jetified-tracing-1.1.0\res
+edu.usuhs.stb.app-recyclerview-1.1.0-4 C:\Users\Administrator\.gradle\caches\transforms-3\22b49ba0ccd9ca07fce5529364c4cb59\transformed\recyclerview-1.1.0\res
+edu.usuhs.stb.app-material-1.9.0-5 C:\Users\Administrator\.gradle\caches\transforms-3\27b0867c0b261caa26fbeaf6395aefd5\transformed\material-1.9.0\res
+edu.usuhs.stb.app-coordinatorlayout-1.2.0-6 C:\Users\Administrator\.gradle\caches\transforms-3\2b9178d504dd1a3da88418a036d32d1c\transformed\coordinatorlayout-1.2.0\res
+edu.usuhs.stb.app-constraintlayout-2.0.1-7 C:\Users\Administrator\.gradle\caches\transforms-3\2fd984d4f2493f74b8ce40588b8b3939\transformed\constraintlayout-2.0.1\res
+edu.usuhs.stb.app-jetified-savedstate-1.2.0-8 C:\Users\Administrator\.gradle\caches\transforms-3\3217e330a99cf12180a52fe85ce11cef\transformed\jetified-savedstate-1.2.0\res
+edu.usuhs.stb.app-jetified-appcompat-resources-1.5.0-9 C:\Users\Administrator\.gradle\caches\transforms-3\52815eacccd40112eeb9d0e42938d076\transformed\jetified-appcompat-resources-1.5.0\res
+edu.usuhs.stb.app-jetified-autofill-1.1.0-10 C:\Users\Administrator\.gradle\caches\transforms-3\537af8ba0b9e05e09c2f01aae6a51711\transformed\jetified-autofill-1.1.0\res
+edu.usuhs.stb.app-sqlite-2.2.0-11 C:\Users\Administrator\.gradle\caches\transforms-3\6c2d72672b03afb21a8cfdbc88310b3b\transformed\sqlite-2.2.0\res
+edu.usuhs.stb.app-jetified-drawee-2.6.0-12 C:\Users\Administrator\.gradle\caches\transforms-3\710a79f7545e65a0125954d65a5d271b\transformed\jetified-drawee-2.6.0\res
+edu.usuhs.stb.app-jetified-flipper-0.182.0-13 C:\Users\Administrator\.gradle\caches\transforms-3\716e957ae9593c5dfc3048f0ec5b4668\transformed\jetified-flipper-0.182.0\res
+edu.usuhs.stb.app-jetified-viewpager2-1.0.0-14 C:\Users\Administrator\.gradle\caches\transforms-3\7f0b8394916f8a66bca3afd88d9ba851\transformed\jetified-viewpager2-1.0.0\res
+edu.usuhs.stb.app-drawerlayout-1.1.1-15 C:\Users\Administrator\.gradle\caches\transforms-3\81b323b1961f3ee5542d5ab6d2446272\transformed\drawerlayout-1.1.1\res
+edu.usuhs.stb.app-core-1.8.0-16 C:\Users\Administrator\.gradle\caches\transforms-3\8272be38eb6396e53417470c6672e76d\transformed\core-1.8.0\res
+edu.usuhs.stb.app-jetified-activity-1.5.0-17 C:\Users\Administrator\.gradle\caches\transforms-3\84384d50724206d178abb6d091f41bf4\transformed\jetified-activity-1.5.0\res
+edu.usuhs.stb.app-swiperefreshlayout-1.1.0-18 C:\Users\Administrator\.gradle\caches\transforms-3\a31ceacda85e806bfc6aa6dcc7d8465d\transformed\swiperefreshlayout-1.1.0\res
+edu.usuhs.stb.app-jetified-emoji2-views-helper-1.2.0-19 C:\Users\Administrator\.gradle\caches\transforms-3\a57107d71c9d5ef6753458c781e5e02d\transformed\jetified-emoji2-views-helper-1.2.0\res
+edu.usuhs.stb.app-jetified-core-ktx-1.8.0-20 C:\Users\Administrator\.gradle\caches\transforms-3\a774747752246ba35c0af4d9c65ffb90\transformed\jetified-core-ktx-1.8.0\res
+edu.usuhs.stb.app-jetified-Android-ScalableVideoView-10e7b4da8b-21 C:\Users\Administrator\.gradle\caches\transforms-3\adbb6f141a5e6ffe4c96aa80f68cd535\transformed\jetified-Android-ScalableVideoView-10e7b4da8b\res
+edu.usuhs.stb.app-fragment-1.3.6-22 C:\Users\Administrator\.gradle\caches\transforms-3\afce251aca17630ce52c1013147f99bf\transformed\fragment-1.3.6\res
+edu.usuhs.stb.app-lifecycle-runtime-2.5.0-23 C:\Users\Administrator\.gradle\caches\transforms-3\b1f878c1804bbbfc9891f9a1a04d0fc2\transformed\lifecycle-runtime-2.5.0\res
+edu.usuhs.stb.app-jetified-lifecycle-viewmodel-savedstate-2.5.0-24 C:\Users\Administrator\.gradle\caches\transforms-3\b36ceb86edff9f1e9a6eb0dc6919e109\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.0\res
+edu.usuhs.stb.app-sqlite-framework-2.2.0-25 C:\Users\Administrator\.gradle\caches\transforms-3\e455857255ce84739fe1b42f807e10f7\transformed\sqlite-framework-2.2.0\res
+edu.usuhs.stb.app-jetified-react-android-0.72.6-debug-26 C:\Users\Administrator\.gradle\caches\transforms-3\e8213688649e4263c67c519645be6e24\transformed\jetified-react-android-0.72.6-debug\res
+edu.usuhs.stb.app-jetified-annotation-experimental-1.1.0-27 C:\Users\Administrator\.gradle\caches\transforms-3\eaedf959ca74dd67a376f2673c8b30fd\transformed\jetified-annotation-experimental-1.1.0\res
+edu.usuhs.stb.app-jetified-startup-runtime-1.1.1-28 C:\Users\Administrator\.gradle\caches\transforms-3\ef58afd07904611873cf1bd6c60648e5\transformed\jetified-startup-runtime-1.1.1\res
+edu.usuhs.stb.app-appcompat-1.5.0-29 C:\Users\Administrator\.gradle\caches\transforms-3\ef63e398bade5200c9ffc3abd90db843\transformed\appcompat-1.5.0\res
+edu.usuhs.stb.app-jetified-lifecycle-process-2.4.1-30 C:\Users\Administrator\.gradle\caches\transforms-3\f099e26be5a9afb55f4b7922ea6871b3\transformed\jetified-lifecycle-process-2.4.1\res
+edu.usuhs.stb.app-cardview-1.0.0-31 C:\Users\Administrator\.gradle\caches\transforms-3\f135531a5756f151f59ebbcd94e55fe0\transformed\cardview-1.0.0\res
+edu.usuhs.stb.app-lifecycle-livedata-core-2.5.0-32 C:\Users\Administrator\.gradle\caches\transforms-3\feee9bb35e7f1e79bb0668de48d53209\transformed\lifecycle-livedata-core-2.5.0\res
+edu.usuhs.stb.app-pngs-33 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\android\app\build\generated\res\pngs\debug
+edu.usuhs.stb.app-resValues-34 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\android\app\build\generated\res\resValues\debug
+edu.usuhs.stb.app-rs-35 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\android\app\build\generated\res\rs\debug
+edu.usuhs.stb.app-mergeDebugResources-36 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+edu.usuhs.stb.app-mergeDebugResources-37 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+edu.usuhs.stb.app-merged_res-38 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\android\app\build\intermediates\merged_res\debug
+edu.usuhs.stb.app-debug-39 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\android\app\src\debug\res
+edu.usuhs.stb.app-main-40 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\android\app\src\main\res
+edu.usuhs.stb.app-packaged_res-41 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+edu.usuhs.stb.app-packaged_res-42 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-reanimated\android\build\intermediates\packaged_res\debug
+edu.usuhs.stb.app-packaged_res-43 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+edu.usuhs.stb.app-packaged_res-44 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+edu.usuhs.stb.app-packaged_res-45 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-share\android\build\intermediates\packaged_res\debug
+edu.usuhs.stb.app-packaged_res-46 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-sound\android\build\intermediates\packaged_res\debug
+edu.usuhs.stb.app-packaged_res-47 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-splash-screen\android\build\intermediates\packaged_res\debug
+edu.usuhs.stb.app-packaged_res-48 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
+edu.usuhs.stb.app-packaged_res-49 E:\Project\React Native\StopTheBleed_ReactNative\StopTheBleed_ReactNative\node_modules\react-native-video\android\build\intermediates\packaged_res\debug
